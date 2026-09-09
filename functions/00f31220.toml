@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:17:24.546812Z
+addr = 0xf31220
+size = 0x190
+name = "IGameSystem_AddByName"
+
+[header]
+name = "IGameSystem_AddByName"
+addr = 0xf31220
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:17:05.931111Z
+addr = 0x1881a40
+size = 0x369
+name = "C_ServerVoiceHandler_OnServerVoiceData"
+
+[header]
+name = "C_ServerVoiceHandler_OnServerVoiceData"
+addr = 0x1881a40
+
+[header.args]

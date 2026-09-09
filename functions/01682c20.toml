@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:17:05.931025Z
+addr = 0x1682c20
+size = 0x573
+name = "RegisterEventListener_Abstract"
+
+[header]
+name = "RegisterEventListener_Abstract"
+addr = 0x1682c20
+
+[header.args]

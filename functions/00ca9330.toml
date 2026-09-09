@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:17:05.930972Z
+addr = 0xca9330
+size = 0x1
+name = "IGameSystem_OnClientPostRender"
+
+[header]
+name = "IGameSystem_OnClientPostRender"
+addr = 0xca9330
+
+[header.args]

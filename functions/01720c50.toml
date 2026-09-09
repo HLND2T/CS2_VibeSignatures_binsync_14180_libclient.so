@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:17:05.931064Z
+addr = 0x1720c50
+size = 0xe3
+name = "CLoopModeGame_OnClientPauseSimulate"
+
+[header]
+name = "CLoopModeGame_OnClientPauseSimulate"
+addr = 0x1720c50
+
+[header.args]

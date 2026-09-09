@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:17:05.931070Z
+addr = 0x1720e50
+size = 0x19
+name = "CLoopModeGame_OnClientPreOutputParallelWithServer"
+
+[header]
+name = "CLoopModeGame_OnClientPreOutputParallelWithServer"
+addr = 0x1720e50
+
+[header.args]

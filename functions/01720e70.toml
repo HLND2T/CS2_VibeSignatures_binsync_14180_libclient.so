@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:17:05.931072Z
+addr = 0x1720e70
+size = 0xf
+name = "CLoopModeGame_OnClientPostOutput"
+
+[header]
+name = "CLoopModeGame_OnClientPostOutput"
+addr = 0x1720e70
+
+[header.args]

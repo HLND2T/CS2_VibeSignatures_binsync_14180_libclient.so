@@ -1,0 +1,10 @@
+last_change = 2026-09-09T16:17:05.931055Z
+addr = 0x1720950
+size = 0xbb
+name = "CLoopModeGame_OnClientAdvanceNonRenderedFrame"
+
+[header]
+name = "CLoopModeGame_OnClientAdvanceNonRenderedFrame"
+addr = 0x1720950
+
+[header.args]
